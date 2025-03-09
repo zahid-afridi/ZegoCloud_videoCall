@@ -16,7 +16,7 @@ export default function Room() {
             sharedLinks:[
                 {
                     name:"Copy Link",
-                    url:`http://localhost:5173/room/${id}`
+                    url:`https://zego-cloud-video-call-delta.vercel.app/room/${id}`
                 }
                 
             ],
